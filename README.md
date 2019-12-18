@@ -19,6 +19,10 @@
 ## challenges
 * https://github.com/Billy-Ellis/Exploit-Challenges
 
+## collections
+* https://github.com/Siguza/ios-resources
+* https://github.com/michalmalik/osx-re-101
+
 ## damn vulnerable apps
 * https://github.com/GeoSn0w/Myriam
 * https://github.com/OWASP/igoat
