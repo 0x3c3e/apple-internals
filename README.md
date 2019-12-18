@@ -36,6 +36,9 @@
 ## papers
 * https://papers.put.as
 
-## wiki
+# slides
+* https://www.sstic.org/media/SSTIC2018/SSTIC-actes/2018_ouverture/SSTIC2018-Slides-2018_ouverture-flake.pdf
+
+## wikis
 * https://iphonedevwiki.net
 * https://www.theiphonewiki.com
