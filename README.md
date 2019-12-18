@@ -8,6 +8,7 @@
 * https://www.allysonomalley.com
 * https://pewpewthespells.com
 * https://blog.perfect.blue
+* https://reverse.put.as
 
 ## books
 * ["Beginner's Guide to Exploitation on ARM"](https://zygosec.com/book.html) by Billy Ellis
@@ -27,6 +28,9 @@
 * https://github.com/OWASP/owasp-mstg
 * https://github.com/ivRodriguezCA/RE-iOS-Apps
 * https://www.apple.com/business/docs/site/iOS_Security_Guide.pdf
+
+## papers
+* https://papers.put.as
 
 ## wiki
 * https://iphonedevwiki.net
