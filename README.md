@@ -33,7 +33,6 @@
 ## guides
 * https://github.com/OWASP/owasp-mstg
 * https://github.com/ivRodriguezCA/RE-iOS-Apps
-* https://www.apple.com/business/docs/site/iOS_Security_Guide.pdf
 
 ## papers
 * https://papers.put.as
