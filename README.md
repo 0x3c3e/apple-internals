@@ -27,7 +27,7 @@
 
 ## damn vulnerable apps
 * https://github.com/GeoSn0w/Myriam
-* https://github.com/OWASP/igoat
+* https://github.com/OWASP/iGoat-Swift
 * https://github.com/prateek147/DVIA-v2
 
 ## guides
