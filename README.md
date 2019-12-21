@@ -13,6 +13,7 @@
 * https://bazad.github.io
 * https://blog.umangis.me
 * https://ivrodriguez.com
+* https://blog.trendmicro.com
 
 ## books
 * ["Beginner's Guide to Exploitation on ARM"](https://zygosec.com/book.html) by Billy Ellis
