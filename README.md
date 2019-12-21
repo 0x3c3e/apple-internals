@@ -41,7 +41,8 @@
 ## slides
 * https://www.sstic.org/media/SSTIC2018/SSTIC-actes/2018_ouverture/SSTIC2018-Slides-2018_ouverture-flake.pdf
 * https://www.slideshare.net/BillyEllis3/introduction-to-returnoriented-exploitation-on-arm64-billy-ellis
-* https://static1.squarespace.com/static/54cecce7e4b054df1848b5f9/t/590a5719b8a79bfa4f9ebd90/1493849881530/Levin_Unknowns.pdf
+* http://technologeeks.com/files/Unknowns.pdf
+* http://technologeeks.com/files/TrustZone.pdf
 
 ## wikis
 * https://iphonedevwiki.net
