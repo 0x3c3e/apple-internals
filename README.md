@@ -35,6 +35,7 @@
 * https://github.com/OWASP/owasp-mstg
 * https://github.com/ivRodriguezCA/RE-iOS-Apps
 * https://manuals.info.apple.com/MANUALS/1000/MA1902/en_US/apple-platform-security-guide.pdf
+* https://developer.apple.com/app-store/review/guidelines/#software-requirements
 
 ## papers
 * https://papers.put.as
@@ -45,6 +46,8 @@
 * http://technologeeks.com/files/Unknowns.pdf
 * http://technologeeks.com/files/TrustZone.pdf
 * http://newosxbook.com/files/LendMeYourTaskPort.pdf
+* http://iokit.racing/oneweirdtrick.pdf
+* https://www.sec.cs.tu-bs.de/pubs/2019-eurosp.pdf
 
 ## wikis
 * https://iphonedevwiki.net
