@@ -11,6 +11,7 @@
 * https://reverse.put.as
 * https://googleprojectzero.blogspot.com
 * https://bazad.github.io
+* https://blog.umangis.me
 
 ## books
 * ["Beginner's Guide to Exploitation on ARM"](https://zygosec.com/book.html) by Billy Ellis
