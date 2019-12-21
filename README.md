@@ -13,7 +13,6 @@
 * https://bazad.github.io
 * https://blog.umangis.me
 * https://ivrodriguez.com
-* https://blog.trendmicro.com
 
 ## books
 * ["Beginner's Guide to Exploitation on ARM"](https://zygosec.com/book.html) by Billy Ellis
@@ -37,7 +36,7 @@
 * https://github.com/OWASP/owasp-mstg
 * https://github.com/ivRodriguezCA/RE-iOS-Apps
 * https://manuals.info.apple.com/MANUALS/1000/MA1902/en_US/apple-platform-security-guide.pdf
-* https://developer.apple.com/app-store/review/guidelines
+* https://www.reddit.com/r/jailbreak/comments/67f4s1/tutorial_how_you_can_start_jailbreak_development
 
 ## papers
 * https://papers.put.as
