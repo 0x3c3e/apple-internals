@@ -43,6 +43,7 @@
 * https://www.slideshare.net/BillyEllis3/introduction-to-returnoriented-exploitation-on-arm64-billy-ellis
 * http://technologeeks.com/files/Unknowns.pdf
 * http://technologeeks.com/files/TrustZone.pdf
+* http://newosxbook.com/files/LendMeYourTaskPort.pdf
 
 ## wikis
 * https://iphonedevwiki.net
