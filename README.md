@@ -35,7 +35,7 @@
 * https://github.com/OWASP/owasp-mstg
 * https://github.com/ivRodriguezCA/RE-iOS-Apps
 * https://manuals.info.apple.com/MANUALS/1000/MA1902/en_US/apple-platform-security-guide.pdf
-* https://developer.apple.com/app-store/review/guidelines/#software-requirements
+* https://developer.apple.com/app-store/review/guidelines
 
 ## papers
 * https://papers.put.as
