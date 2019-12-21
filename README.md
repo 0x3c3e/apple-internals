@@ -49,6 +49,7 @@
 * http://newosxbook.com/files/LendMeYourTaskPort.pdf
 * http://iokit.racing/oneweirdtrick.pdf
 * https://www.sec.cs.tu-bs.de/pubs/2019-eurosp.pdf
+* https://qconsf.com/system/files/presentation-slides/ivan_rodriguez_-_qcon_sf_-_exploiting_common_vulnerabilities_on_ios_apps.pdf
 
 ## wikis
 * https://iphonedevwiki.net
