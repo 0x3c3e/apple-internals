@@ -22,6 +22,7 @@
 
 ## challenges
 * https://github.com/Billy-Ellis/Exploit-Challenges
+* https://github.com/0x3c3e/iOS-exploit-challenges
 
 ## collections
 * https://github.com/Siguza/ios-resources
