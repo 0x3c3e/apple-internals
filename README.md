@@ -38,6 +38,7 @@
 * https://github.com/ivRodriguezCA/RE-iOS-Apps
 * https://manuals.info.apple.com/MANUALS/1000/MA1902/en_US/apple-platform-security-guide.pdf
 * https://www.reddit.com/r/jailbreak/comments/67f4s1/tutorial_how_you_can_start_jailbreak_development
+* https://github.com/felixgr/secure-ios-app-dev
 
 ## papers
 * https://papers.put.as
