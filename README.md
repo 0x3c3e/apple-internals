@@ -7,7 +7,6 @@
 * https://re.alisa.sh
 * https://www.allysonomalley.com
 * https://pewpewthespells.com
-* https://blog.perfect.blue
 * https://reverse.put.as
 * https://googleprojectzero.blogspot.com
 * https://bazad.github.io
@@ -42,6 +41,7 @@
 
 ## papers
 * https://papers.put.as
+* https://par.nsf.gov/servlets/purl/10054131
 
 ## slides
 * https://www.sstic.org/media/SSTIC2018/SSTIC-actes/2018_ouverture/SSTIC2018-Slides-2018_ouverture-flake.pdf
@@ -52,6 +52,8 @@
 * http://iokit.racing/oneweirdtrick.pdf
 * https://www.sec.cs.tu-bs.de/pubs/2019-eurosp.pdf
 * https://qconsf.com/system/files/presentation-slides/ivan_rodriguez_-_qcon_sf_-_exploiting_common_vulnerabilities_on_ios_apps.pdf
+* https://i.blackhat.com/USA-19/Thursday/us-19-Krstic-Behind-The-Scenes-Of-IOS-And-Mas-Security.pdf
+* https://github.com/bazad/presentations
 
 ## wikis
 * https://iphonedevwiki.net
