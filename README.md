@@ -13,6 +13,7 @@
 * https://blog.umangis.me
 * https://ivrodriguez.com
 * https://keenlab.tencent.com/en
+* https://geosn0w.github.io
 
 ## books
 * ["Beginner's Guide to Exploitation on ARM"](https://zygosec.com/book.html) by Billy Ellis
