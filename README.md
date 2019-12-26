@@ -15,6 +15,7 @@
 * https://keenlab.tencent.com/en
 * https://geosn0w.github.io
 * https://blog.zecops.com
+* https://bxl1989.github.io
 
 ## books
 * ["Beginner's Guide to Exploitation on ARM"](https://zygosec.com/book.html) by Billy Ellis
@@ -35,6 +36,7 @@
 * https://github.com/GeoSn0w/Myriam
 * https://github.com/OWASP/iGoat-Swift
 * https://github.com/prateek147/DVIA-v2
+* https://github.com/OWASP/owasp-mstg/tree/master/Crackmes
 
 ## guides
 * https://github.com/OWASP/owasp-mstg
