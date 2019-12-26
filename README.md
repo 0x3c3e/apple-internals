@@ -16,6 +16,7 @@
 * https://geosn0w.github.io
 * https://blog.zecops.com
 * https://bxl1989.github.io
+* http://blog.ret2.io
 
 ## books
 * ["Beginner's Guide to Exploitation on ARM"](https://zygosec.com/book.html) by Billy Ellis
@@ -26,17 +27,19 @@
 ## challenges
 * https://github.com/Billy-Ellis/Exploit-Challenges
 * https://github.com/0x3c3e/iOS-exploit-challenges
+* https://github.com/OWASP/owasp-mstg/tree/master/Crackmes
 
 ## collections
 * https://github.com/Siguza/ios-resources
 * https://github.com/michalmalik/osx-re-101
 * https://github.com/bazad/presentations
+* https://github.com/writeups/iOS
+* https://github.com/ansjdnakjdnajkd/iOS
 
 ## damn vulnerable apps
 * https://github.com/GeoSn0w/Myriam
 * https://github.com/OWASP/iGoat-Swift
 * https://github.com/prateek147/DVIA-v2
-* https://github.com/OWASP/owasp-mstg/tree/master/Crackmes
 
 ## guides
 * https://github.com/OWASP/owasp-mstg
