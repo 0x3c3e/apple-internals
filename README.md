@@ -26,6 +26,7 @@
 ## collections
 * https://github.com/Siguza/ios-resources
 * https://github.com/michalmalik/osx-re-101
+* https://github.com/bazad/presentations
 
 ## damn vulnerable apps
 * https://github.com/GeoSn0w/Myriam
@@ -53,7 +54,7 @@
 * https://www.sec.cs.tu-bs.de/pubs/2019-eurosp.pdf
 * https://qconsf.com/system/files/presentation-slides/ivan_rodriguez_-_qcon_sf_-_exploiting_common_vulnerabilities_on_ios_apps.pdf
 * https://i.blackhat.com/USA-19/Thursday/us-19-Krstic-Behind-The-Scenes-Of-IOS-And-Mas-Security.pdf
-* https://github.com/bazad/presentations
+* https://docs.google.com/presentation/d/16LZ6T-tcjgp3T8_N3m0pa5kNA1DwIsuMcQYDhpMU7uU/edit?usp=sharing
 
 ## wikis
 * https://iphonedevwiki.net
