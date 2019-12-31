@@ -5,7 +5,6 @@
 * https://azeria-labs.com
 * https://kov4l3nko.github.io
 * https://re.alisa.sh
-* https://www.allysonomalley.com
 * https://pewpewthespells.com
 * https://reverse.put.as
 * https://googleprojectzero.blogspot.com
@@ -23,6 +22,7 @@
 * ["MacOS and iOS Internals"](http://newosxbook.com) by Jonathan Levin
 * ["Reverse Engineering for Beginners"](https://beginners.re/RE4B-EN.pdf) by Dennis Yurichev
 * ["iOS App Reverse Engineering"](https://github.com/iosre/iOSAppReverseEngineering) by Zishe Sha
+* ["OS X and iOS Kernel Programming"](https://www.amazon.com/OS-X-iOS-Kernel-Programming/dp/1430235365) by Ole Henry Halvorsen
 
 ## challenges
 * https://github.com/Billy-Ellis/Exploit-Challenges
