@@ -67,6 +67,7 @@
 
 ## playlists
 * https://www.youtube.com/playlist?list=PLqIwl7AsywVo3vVw_U2wdmeOJqHWkeWDG
+* https://www.youtube.com/playlist?list=PL7xgyhjnnR3vdUdY-m_-aOz_EO8NKN5XG
 
 ## wikis
 * https://iphonedevwiki.net
