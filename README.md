@@ -16,6 +16,7 @@
 * https://blog.zecops.com
 * https://bxl1989.github.io
 * http://blog.ret2.io
+* https://objective-see.com/blog.html
 
 ## books
 * ["Beginner's Guide to Exploitation on ARM"](https://zygosec.com/book.html) by Billy Ellis
