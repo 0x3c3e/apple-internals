@@ -19,6 +19,7 @@
 * https://objective-see.com/blog.html
 * https://xerub.github.io
 * https://nshipster.com
+* http://exceptionlevelone.blogspot.com
 
 ## books
 * ["Beginner's Guide to Exploitation on ARM"](https://zygosec.com/book.html) by Billy Ellis
