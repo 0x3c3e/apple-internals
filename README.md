@@ -21,6 +21,9 @@
 * https://nshipster.com
 * http://exceptionlevelone.blogspot.com
 
+## bugtrackers
+* https://bugs.chromium.org/p/project-zero/issues/list?q=label%3AVendor-Apple&can=1
+
 ## books
 * ["Beginner's Guide to Exploitation on ARM"](https://zygosec.com/book.html) by Billy Ellis
 * ["MacOS and iOS Internals"](http://newosxbook.com) by Jonathan Levin
