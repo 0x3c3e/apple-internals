@@ -40,6 +40,7 @@
 * https://github.com/writeups/iOS
 * https://github.com/ansjdnakjdnajkd/iOS
 * https://github.com/kpwn/iOSRE
+* https://github.com/saelo/saelo.github.io/tree/master/presentations
 
 ## damn vulnerable apps
 * https://github.com/GeoSn0w/Myriam
