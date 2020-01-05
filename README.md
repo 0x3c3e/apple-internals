@@ -44,11 +44,9 @@
 ## collections
 * https://github.com/Siguza/ios-resources
 * https://github.com/michalmalik/osx-re-101
-* https://github.com/bazad/presentations
 * https://github.com/writeups/iOS
 * https://github.com/ansjdnakjdnajkd/iOS
 * https://github.com/kpwn/iOSRE
-* https://github.com/saelo/saelo.github.io/tree/master/presentations
 
 ## damn vulnerable apps
 * https://github.com/GeoSn0w/Myriam
@@ -79,6 +77,9 @@
 * https://docs.google.com/presentation/d/16LZ6T-tcjgp3T8_N3m0pa5kNA1DwIsuMcQYDhpMU7uU/edit?usp=sharing
 * https://www.blackhat.com/docs/asia-17/materials/asia-17-Bazaliy-Fried-Apples-Jailbreak-DIY.pdf
 * https://www.blackhat.com/docs/us-15/materials/us-15-Wang-Review-And-Exploit-Neglected-Attack-Surface-In-iOS-8.pdf
+* https://github.com/ssd-secure-disclosure
+* https://github.com/bazad/presentations
+* https://github.com/saelo/saelo.github.io/tree/master/presentations
 
 ## playlists
 * https://www.youtube.com/playlist?list=PLqIwl7AsywVo3vVw_U2wdmeOJqHWkeWDG
