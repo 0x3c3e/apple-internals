@@ -22,6 +22,7 @@
 * http://exceptionlevelone.blogspot.com
 * https://siguza.github.io
 * https://stek29.rocks
+* https://sparkes.zone/blog
 
 ## bugtrackers
 * https://bugs.chromium.org/p/project-zero/issues/list?q=label%3AVendor-Apple&can=1
