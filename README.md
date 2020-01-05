@@ -33,6 +33,7 @@
 * ["Reverse Engineering for Beginners"](https://beginners.re/RE4B-EN.pdf) by Dennis Yurichev
 * ["iOS App Reverse Engineering"](https://github.com/iosre/iOSAppReverseEngineering) by Zishe Sha
 * ["OS X and iOS Kernel Programming"](https://www.amazon.com/OS-X-iOS-Kernel-Programming/dp/1430235365) by Ole Henry Halvorsen
+* ["Mac OS X Internals: A Systems Approach"](https://www.amazon.com/gp/product/0321278542) by Amit Singh
 
 ## challenges
 * https://github.com/Billy-Ellis/Exploit-Challenges
