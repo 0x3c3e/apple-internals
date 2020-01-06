@@ -27,6 +27,7 @@
 * https://knight.sc
 * https://nyansatan.github.io
 * https://jndok.github.io
+* http://web.archive.org/web/20170616135234/http://blog.qwertyoruiop.com/
 
 ## bugtrackers
 * https://bugs.chromium.org/p/project-zero/issues/list?q=label%3AVendor-Apple&can=1
