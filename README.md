@@ -29,6 +29,7 @@
 * https://jndok.github.io
 * http://web.archive.org/web/20170616135234/http://blog.qwertyoruiop.com/
 * https://www.mikeash.com/pyblog
+* https://duo.com/labs
 
 ## bugtrackers
 * https://bugs.chromium.org/p/project-zero/issues/list?q=label%3AVendor-Apple&can=1
