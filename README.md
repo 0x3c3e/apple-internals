@@ -54,6 +54,7 @@
 * https://github.com/writeups/iOS
 * https://github.com/ansjdnakjdnajkd/iOS
 * https://github.com/kpwn/iOSRE
+* https://github.com/maddiestone/ConPresentations
 
 ## damn vulnerable apps
 * https://github.com/GeoSn0w/Myriam
