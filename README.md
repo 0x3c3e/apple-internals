@@ -39,7 +39,7 @@
 * ["Beginner's Guide to Exploitation on ARM"](https://zygosec.com/book.html) by Billy Ellis
 * ["MacOS and iOS Internals"](http://newosxbook.com) by Jonathan Levin
 * ["Reverse Engineering for Beginners"](https://beginners.re/RE4B-EN.pdf) by Dennis Yurichev
-* ["iOS App Reverse Engineering"](https://github.com/iosre/iOSAppReverseEngineering) by Zishe Sha
+* ["iOS Application Security: The Definitive Guide for Hackers and Developers"](https://www.amazon.com/iOS-Application-Security-Definitive-Developers/dp/159327601X) by David Thiel
 * ["OS X and iOS Kernel Programming"](https://www.amazon.com/OS-X-iOS-Kernel-Programming/dp/1430235365) by Ole Henry Halvorsen
 * ["Mac OS X Internals: A Systems Approach"](https://www.amazon.com/gp/product/0321278542) by Amit Singh
 
