@@ -66,12 +66,8 @@
 * https://manuals.info.apple.com/MANUALS/1000/MA1902/en_US/apple-platform-security-guide.pdf
 * https://github.com/felixgr/secure-ios-app-dev
 
-## papers
-* https://papers.put.as
-* https://par.nsf.gov/servlets/purl/10054131
-* https://www.sec.cs.tu-bs.de/pubs/2019-eurosp.pdf
-
 ## slides
+* https://papers.put.as
 * https://github.com/ssd-secure-disclosure
 * https://github.com/bazad/presentations
 * https://github.com/saelo/saelo.github.io/tree/master/presentations
