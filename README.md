@@ -35,6 +35,11 @@
 ## bugtrackers
 * https://bugs.chromium.org/p/project-zero/issues/list?q=label%3AVendor-Apple&can=1
 
+## documentation
+* https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/Introduction.html
+* https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/CreatingXPCServices.html
+* https://developer.apple.com/library/archive/documentation/Darwin/Conceptual/KernelProgramming/About/About.html
+
 ## books
 * ["Beginner's Guide to Exploitation on ARM"](https://zygosec.com/book.html) by Billy Ellis
 * ["MacOS and iOS Internals"](http://newosxbook.com) by Jonathan Levin
