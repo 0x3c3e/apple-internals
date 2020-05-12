@@ -37,7 +37,6 @@
 
 ## documentation
 * https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/Introduction.html
-* https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/CreatingXPCServices.html
 * https://developer.apple.com/library/archive/documentation/Darwin/Conceptual/KernelProgramming/About/About.html
 
 ## books
