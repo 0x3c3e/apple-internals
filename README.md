@@ -30,6 +30,7 @@
 * http://web.archive.org/web/20170616135234/http://blog.qwertyoruiop.com/
 * https://www.mikeash.com/pyblog
 * https://duo.com/labs
+* https://blog.zimperium.com
 * https://kernelshaman.blogspot.com
 
 ## bugtrackers
