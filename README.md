@@ -40,6 +40,7 @@
 ## documentation
 * https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/Introduction.html
 * https://developer.apple.com/library/archive/documentation/Darwin/Conceptual/KernelProgramming/About/About.html
+* https://static.docs.arm.com/100878/0100/fundamentals_of_armv8_a_100878_0100_en.pdf
 
 ## books
 * ["Beginner's Guide to Exploitation on ARM"](https://zygosec.com/book.html) by Billy Ellis
