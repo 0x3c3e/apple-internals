@@ -88,3 +88,4 @@
 ## wikis
 * https://iphonedevwiki.net
 * https://www.theiphonewiki.com
+* https://wiki.osdev.org
