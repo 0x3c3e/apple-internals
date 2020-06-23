@@ -38,6 +38,7 @@
 * https://support.apple.com/en-us/HT201222
 
 ## documentation
+* https://developer.apple.com/library/archive/documentation/Performance/Conceptual/ManagingMemory/Articles/AboutMemory.html
 * https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/Introduction.html
 * https://developer.apple.com/library/archive/documentation/Darwin/Conceptual/KernelProgramming/About/About.html
 * https://static.docs.arm.com/100878/0100/fundamentals_of_armv8_a_100878_0100_en.pdf
