@@ -32,6 +32,7 @@
 * https://duo.com/labs
 * https://blog.zimperium.com
 * https://kernelshaman.blogspot.com
+* https://www.synacktiv.com/blog.html
 
 ## bugtrackers
 * https://bugs.chromium.org/p/project-zero/issues/list?q=label%3AVendor-Apple&can=1
