@@ -53,10 +53,6 @@
 * ["OS X and iOS Kernel Programming"](https://www.amazon.com/OS-X-iOS-Kernel-Programming/dp/1430235365) by Ole Henry Halvorsen
 * ["Mac OS X Internals: A Systems Approach"](https://www.amazon.com/gp/product/0321278542) by Amit Singh
 
-## challenges
-* https://github.com/Billy-Ellis/Exploit-Challenges
-* https://github.com/OWASP/owasp-mstg/tree/master/Crackmes
-
 ## collections
 * https://github.com/Siguza/ios-resources
 * https://github.com/michalmalik/osx-re-101
@@ -64,11 +60,6 @@
 * https://github.com/ansjdnakjdnajkd/iOS
 * https://github.com/kpwn/iOSRE
 * https://github.com/felixgr/secure-ios-app-dev
-
-## damn vulnerable apps
-* https://github.com/GeoSn0w/Myriam
-* https://github.com/OWASP/iGoat-Swift
-* https://github.com/prateek147/DVIA-v2
 
 ## guides
 * https://github.com/OWASP/owasp-mstg
@@ -95,3 +86,8 @@
 * https://iphonedevwiki.net
 * https://www.theiphonewiki.com
 * https://wiki.osdev.org
+
+## heap
+* ["In the Zone: OS X Heap Exploitation"](https://papers.put.as/papers/macosx/2016/Summercon-2016.pdf) by Tyler Bohan
+* ["Heapple Pie: The macOS/iOS default heap"](https://www.synacktiv.com/ressources/Sthack_2018_Heapple_Pie.pdf) by Eloi Benoist-Vanderbeken
+* ["MacOS memory allocator (libmalloc) Exploitation"](https://www.slideshare.net/AngelBoy1/macos-memory-allocator-libmalloc-exploitation) by Angel Boy
