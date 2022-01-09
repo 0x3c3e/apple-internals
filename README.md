@@ -91,3 +91,5 @@
 * ["In the Zone: OS X Heap Exploitation"](https://papers.put.as/papers/macosx/2016/Summercon-2016.pdf) by Tyler Bohan
 * ["Heapple Pie: The macOS/iOS default heap"](https://www.synacktiv.com/ressources/Sthack_2018_Heapple_Pie.pdf) by Eloi Benoist-Vanderbeken
 * ["MacOS memory allocator (libmalloc) Exploitation"](https://www.slideshare.net/AngelBoy1/macos-memory-allocator-libmalloc-exploitation) by Angel Boy
+* ["OSX Heap Exploitation"](https://blog.shpik.kr/osx,/macos,/heap,/pwnable/2019/05/09/OSX_Heap_Exploitation.html) by shpik
+> find nano/nanov2 info
