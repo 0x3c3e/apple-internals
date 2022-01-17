@@ -1,39 +1,5 @@
 # iOS-re
 
-
-## blogs
-* https://azeria-labs.com
-* https://kov4l3nko.github.io
-* https://re.alisa.sh
-* https://pewpewthespells.com
-* https://reverse.put.as
-* https://googleprojectzero.blogspot.com
-* https://bazad.github.io
-* https://blog.umangis.me
-* https://ivrodriguez.com
-* https://keenlab.tencent.com/en
-* https://geosn0w.github.io
-* https://blog.zecops.com
-* https://bxl1989.github.io
-* http://blog.ret2.io
-* https://objective-see.com/blog.html
-* https://xerub.github.io
-* https://nshipster.com
-* http://exceptionlevelone.blogspot.com
-* https://siguza.github.io
-* https://stek29.rocks
-* https://sparkes.zone/blog
-* http://blogs.360.cn
-* https://knight.sc
-* https://nyansatan.github.io
-* https://jndok.github.io
-* http://web.archive.org/web/20170616135234/http://blog.qwertyoruiop.com/
-* https://www.mikeash.com/pyblog
-* https://duo.com/labs
-* https://blog.zimperium.com
-* https://kernelshaman.blogspot.com
-* https://www.synacktiv.com/blog.html
-
 ## bugtrackers
 * https://bugs.chromium.org/p/project-zero/issues/list?q=label%3AVendor-Apple&can=1
 * https://support.apple.com/en-us/HT201222
@@ -75,14 +41,10 @@
 * https://github.com/saelo/saelo.github.io/tree/master/presentations
 * https://github.com/maddiestone/ConPresentations
 
-## playlists
-* https://www.youtube.com/playlist?list=PLqIwl7AsywVo3vVw_U2wdmeOJqHWkeWDG
-* https://www.youtube.com/playlist?list=PL7xgyhjnnR3vdUdY-m_-aOz_EO8NKN5XG
-
 ## launchd
 * https://www.launchd.info
 
-## wikis
+## wiki
 * https://iphonedevwiki.net
 * https://www.theiphonewiki.com
 * https://wiki.osdev.org
@@ -93,3 +55,13 @@
 * ["MacOS memory allocator (libmalloc) Exploitation"](https://www.slideshare.net/AngelBoy1/macos-memory-allocator-libmalloc-exploitation) by Angel Boy
 * ["OSX Heap Exploitation"](https://blog.shpik.kr/osx,/macos,/heap,/pwnable/2019/05/09/OSX_Heap_Exploitation.html) by shpik
 > find nano/nanov2 info
+
+## ctf challenges
+| Name | Author | Tags |
+| --- | --- | --- |
+| [Machbook](https://github.com/how2hack/my-ctf-challenges/tree/master/2019/balsnctf-2019/machbook) | how2hack | small-heap |
+| [Machbook Pro](https://github.com/how2hack/my-ctf-challenges/tree/master/2020/balsnctf-2020/machbookpro) | how2hack | tiny-heap, double-free |
+| [Machbooks](https://github.com/how2hack/my-ctf-challenges/tree/master/2020/wctf-2020/machbooks) | how2hack | small-heap, file-struct |
+| [Notes](https://github.com/how2hack/my-ctf-challenges/tree/master/2021/balsnctf-2021/NoteEdit) | how2hack | file-struct |
+| [Apple Pie](https://www.tasteless.eu/post/2019/04/0ctf_quals_applepie/) | nsr, plonk | tiny-heap |
+| [Sandbox Share](https://www.synacktiv.com/en/publications/macos-xpc-exploitation-sandbox-share-case-study.html) | Eloi Benoist-Vanderbeken | xpc |
