@@ -55,13 +55,3 @@
 * ["MacOS memory allocator (libmalloc) Exploitation"](https://www.slideshare.net/AngelBoy1/macos-memory-allocator-libmalloc-exploitation) by Angel Boy
 * ["OSX Heap Exploitation"](https://blog.shpik.kr/osx,/macos,/heap,/pwnable/2019/05/09/OSX_Heap_Exploitation.html) by shpik
 > find nano/nanov2 info
-
-## ctf challenges
-| Name | Author | Tags |
-| --- | --- | --- |
-| [Machbook](https://github.com/how2hack/my-ctf-challenges/tree/master/2019/balsnctf-2019/machbook) | how2hack | small-heap |
-| [Machbook Pro](https://github.com/how2hack/my-ctf-challenges/tree/master/2020/balsnctf-2020/machbookpro) | how2hack | tiny-heap, double-free |
-| [Machbooks](https://github.com/how2hack/my-ctf-challenges/tree/master/2020/wctf-2020/machbooks) | how2hack | small-heap, file-struct |
-| [Notes](https://github.com/how2hack/my-ctf-challenges/tree/master/2021/balsnctf-2021/NoteEdit) | how2hack | file-struct |
-| [Apple Pie](https://www.tasteless.eu/post/2019/04/0ctf_quals_applepie/) | nsr, plonk | tiny-heap |
-| [Sandbox Share](https://www.synacktiv.com/en/publications/macos-xpc-exploitation-sandbox-share-case-study.html) | Eloi Benoist-Vanderbeken | xpc |
