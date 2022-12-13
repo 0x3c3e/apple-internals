@@ -3,7 +3,6 @@
 ## bugtrackers
 * https://bugs.chromium.org/p/project-zero/issues/list?q=label%3AVendor-Apple&can=1
 * https://support.apple.com/en-us/HT201222
-* http://www.openradar.me
 
 ## documentation
 * https://developer.apple.com/library/archive/documentation/Performance/Conceptual/ManagingMemory/Articles/AboutMemory.html
@@ -23,13 +22,10 @@
 * https://github.com/Siguza/ios-resources
 * https://github.com/michalmalik/osx-re-101
 * https://github.com/writeups/iOS
-* https://github.com/ansjdnakjdnajkd/iOS
 * https://github.com/kpwn/iOSRE
 * https://github.com/felixgr/secure-ios-app-dev
 
 ## guides
-* https://github.com/OWASP/owasp-mstg
-* https://github.com/ivRodriguezCA/RE-iOS-Apps
 * https://manuals.info.apple.com/MANUALS/1000/MA1902/en_US/apple-platform-security-guide.pdf
 * https://developer.apple.com/library/archive/documentation/Security/Conceptual/SecureCodingGuide
 * https://github.com/felixgr/secure-ios-app-dev
