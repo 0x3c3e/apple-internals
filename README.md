@@ -17,6 +17,7 @@
 * ["iOS Application Security: The Definitive Guide for Hackers and Developers"](https://www.amazon.com/iOS-Application-Security-Definitive-Developers/dp/159327601X) by David Thiel
 * ["OS X and iOS Kernel Programming"](https://www.amazon.com/OS-X-iOS-Kernel-Programming/dp/1430235365) by Ole Henry Halvorsen
 * ["Mac OS X Internals: A Systems Approach"](https://www.amazon.com/gp/product/0321278542) by Amit Singh
+* ["A Guide to Kernel Exploitation: Attacking the Core"](https://www.amazon.com/Guide-Kernel-Exploitation-Attacking-Core/dp/1597494860) by Enrico Perla
 
 ## collections
 * https://github.com/Siguza/ios-resources
