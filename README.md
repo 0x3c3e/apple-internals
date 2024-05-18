@@ -28,7 +28,6 @@
 * https://github.com/felixgr/secure-ios-app-dev
 
 ## guides
-* https://manuals.info.apple.com/MANUALS/1000/MA1902/en_US/apple-platform-security-guide.pdf
 * https://developer.apple.com/library/archive/documentation/Security/Conceptual/SecureCodingGuide
 * https://github.com/felixgr/secure-ios-app-dev
 
@@ -53,3 +52,6 @@
 * ["MacOS memory allocator (libmalloc) Exploitation"](https://www.slideshare.net/AngelBoy1/macos-memory-allocator-libmalloc-exploitation) by Angel Boy
 * ["OSX Heap Exploitation"](https://blog.shpik.kr/osx,/macos,/heap,/pwnable/2019/05/09/OSX_Heap_Exploitation.html) by shpik
 > find nano/nanov2 info
+
+## blogs
+* https://www.df-f.com/blog
